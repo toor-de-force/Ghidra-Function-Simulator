@@ -1,3 +1,5 @@
+## ARCHIVED
+
 # Ghidra-Function-Simulator
 A concept for a Ghidra-based function simulator.
 
